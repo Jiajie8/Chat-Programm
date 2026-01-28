@@ -57,6 +57,5 @@ thread.start()
 # GUI starten
 root.mainloop()
 client.close()
- 
 
-print("test")
+print("hallo")
